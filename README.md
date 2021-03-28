@@ -1,1 +1,1 @@
-# django-mini-project-1
+# django-mini_project_1
